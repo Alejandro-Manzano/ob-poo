@@ -1,7 +1,9 @@
 package poo.clases;
 
-public class j {
+public class Main {
+
     public static void main(String[] args) {
         
     }
+
 }
