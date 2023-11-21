@@ -17,7 +17,7 @@ public class Vehículo {
                         this.cv = cv;
                         this.year = year;
                         this.sport = sport;
-                        this speed = 0;
+                        this.speed = 0;
                 }
 
                 public Vehículo(String modelo, int year) { //Creación de constructor automáyico
