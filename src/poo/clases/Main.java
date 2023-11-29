@@ -9,6 +9,7 @@ public class Main {
         //Vehículo toyotaPrius = new Vehículo();
 
         Vehículo fordMondeo = new Vehículo("Ford", "Mondeo", 2.1, 2015, true);
+        System.out.println(fordMondeo.fabricante);
         System.out.println(fordMondeo.modelo);
         System.out.println(fordMondeo.year);
         System.out.println(fordMondeo.speed); //0

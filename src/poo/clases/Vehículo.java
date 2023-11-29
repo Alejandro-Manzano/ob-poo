@@ -9,6 +9,7 @@ public class Vehículo {
                 int year;
                 boolean sport;
                 double speed;
+                
 
                 // 2. Constructores
                 public Vehículo(String fabricante, String modelo, double cv, int year, boolean sport){
@@ -32,6 +33,7 @@ public class Vehículo {
 
                 // 3. Métodos
                 public void  acelerar(int quantity){
-                        this.speed += quantity;
+
+                    this.speed += quantity;
                 }
 }
